@@ -5,4 +5,4 @@ example are in out/artifact\
 to run it simply type\
 java -jar bf.jar <name_of_file>\
 
-java -jar bf.jar script.txt
+java -jar Bf.jar script.txt
